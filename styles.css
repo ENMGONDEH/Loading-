@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1a1a1a; /* تغییر رنگ زمینه به تیره‌تر */
+}
+
+.loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* تغییر رنگ متن و انیمیشن به سفید */
+l-tail-chase {
+    color: white;
+}
